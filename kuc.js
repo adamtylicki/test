@@ -1,1 +1,1 @@
-const x = () => console.log("jebac policje")
+export const x = () => "jebac policje"
